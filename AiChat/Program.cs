@@ -1,16 +1,16 @@
-/// Start point of program
+﻿/// Start point of program
 
 #region = Animated name
 
 string Progresbar = "Artificial intelligence Chat program by : @SlahtalabMohsen";
 var title = "";
 
-    for (int i = 0; i < Progresbar.Length; i++)
-    {
-        title += Progresbar[i];
-        Console.Title = title;
-        Thread.Sleep(70);
-    }
+for (int i = 0; i < Progresbar.Length; i++)
+{
+    title += Progresbar[i];
+    Console.Title = title;
+    Thread.Sleep(70);
+}
 
 #endregion
 
@@ -119,7 +119,7 @@ int aIndex = rnd.Next(hiAsk.Length);
 string[] goodAsk = { "glad", "Happy" };
 int bIndex = rnd.Next(goodAsk.Length);
 
-string[] nationAsk = { "England", "Japan" , "USA" };
+string[] nationAsk = { "England", "Japan", "USA" };
 int cIndex = rnd.Next(nationAsk.Length);
 
 string[] ageAsk = { "22", "31", "70" };
@@ -134,7 +134,7 @@ int fIndex = rnd.Next(petAsk.Length);
 string[] wearAsk = { "Red", "Brown", "Yellow" };
 int gIndex = rnd.Next(wearAsk.Length);
 
-string[] friendAsk = { "Mohsen Slahtalab"};
+string[] friendAsk = { "Mohsen Slahtalab" };
 int hIndex = rnd.Next(friendAsk.Length);
 
 string[] creatorAsk = { "Mohsen Slahtalab, You can follow him with @SlahtalabMohsen ID in social media" };
@@ -146,13 +146,13 @@ int jIndex = rnd.Next(humanAsk.Length);
 string[] botAsk = { "No, Im not bot" };
 int kIndex = rnd.Next(botAsk.Length);
 
-string[] byeAsk = {"Good bye", "Good bye my friend"};
+string[] byeAsk = { "Good bye", "Good bye my friend" };
 int lIndex = rnd.Next(byeAsk.Length);
 
 string[] languageAsk = { "I speaking english", "only english" };
 int mIndex = rnd.Next(languageAsk.Length);
 
-string[] weatherAsk = { "Its sunny", "Its rainy"};
+string[] weatherAsk = { "Its sunny", "Its rainy" };
 int oIndex = rnd.Next(weatherAsk.Length);
 
 string[] boringAsk = { "You’re the boring person", "Its You!" };
@@ -182,7 +182,7 @@ int wIndex = rnd.Next(jokeAsk.Length);
 string[] whatsupAsk = { "Watching series and in the minwhile chat with you", "Im just bored" };
 int xIndex = rnd.Next(whatsupAsk.Length);
 
-string[] dateAsk = { "The date is : " , "Today is: "};
+string[] dateAsk = { "The date is : ", "Today is: " };
 int yIndex = rnd.Next(dateAsk.Length);
 
 string[] tellMeSomethingAsk = { "Today is my birthday", "I realy dont like you", "I want to know you more" };
@@ -416,7 +416,7 @@ while (!shutdown)
     else if
     (inputValue.Contains("date"))
     {
-        outputValue = $"{dateAsk[yIndex]} {PersianDateTime.Now} ";
+        outputValue = $"{dateAsk[yIndex]} {DateTime.Now} ";
     }
 
     // Tell me something?
@@ -525,7 +525,7 @@ while (!shutdown)
         Console.WriteLine("Console will be close in next 7 seconds...");
         Thread.Sleep(7000);
         Environment.Exit(1);
-        
+
     }
 
     #endregion

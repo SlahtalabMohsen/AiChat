@@ -1,0 +1,15 @@
+C:\Users\eslah\source\repos\AiChat\AiChat\obj\Debug\net6.0\AiChat.csproj.AssemblyReference.cache
+C:\Users\eslah\source\repos\AiChat\AiChat\obj\Debug\net6.0\AiChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eslah\source\repos\AiChat\AiChat\obj\Debug\net6.0\AiChat.AssemblyInfoInputs.cache
+C:\Users\eslah\source\repos\AiChat\AiChat\obj\Debug\net6.0\AiChat.AssemblyInfo.cs
+C:\Users\eslah\source\repos\AiChat\AiChat\obj\Debug\net6.0\AiChat.csproj.CoreCompileInputs.cache
+C:\Users\eslah\source\repos\AiChat\AiChat\bin\Debug\net6.0\AiChat.exe
+C:\Users\eslah\source\repos\AiChat\AiChat\bin\Debug\net6.0\AiChat.deps.json
+C:\Users\eslah\source\repos\AiChat\AiChat\bin\Debug\net6.0\AiChat.runtimeconfig.json
+C:\Users\eslah\source\repos\AiChat\AiChat\bin\Debug\net6.0\AiChat.dll
+C:\Users\eslah\source\repos\AiChat\AiChat\bin\Debug\net6.0\AiChat.pdb
+C:\Users\eslah\source\repos\AiChat\AiChat\obj\Debug\net6.0\AiChat.dll
+C:\Users\eslah\source\repos\AiChat\AiChat\obj\Debug\net6.0\refint\AiChat.dll
+C:\Users\eslah\source\repos\AiChat\AiChat\obj\Debug\net6.0\AiChat.pdb
+C:\Users\eslah\source\repos\AiChat\AiChat\obj\Debug\net6.0\AiChat.genruntimeconfig.cache
+C:\Users\eslah\source\repos\AiChat\AiChat\obj\Debug\net6.0\ref\AiChat.dll
